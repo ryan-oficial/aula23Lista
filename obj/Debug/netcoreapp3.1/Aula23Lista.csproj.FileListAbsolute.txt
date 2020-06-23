@@ -1,0 +1,11 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23Lista.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23Lista.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23Lista.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23Lista.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23Lista.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula23Lista\bin\Debug\netcoreapp3.1\Aula23Lista.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula23Lista\obj\Debug\netcoreapp3.1\Aula23Lista.pdb
