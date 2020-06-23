@@ -54,15 +54,15 @@ namespace Aula23Lista
             Visa.Titular = "Ryan";
             Visa.Numero = 123456f;
             Visa.Bandeira = "Visa";
-            Visa.Vencimento = 10102020;
+            Visa.Vencimento = "06/11/2021";
             Visa.CVV = 13;
 
             cartoes.Add(Visa);
             
-            cartoes.Add( new Cartao("Ryan", 158139, "Cielo", 10102025, 15));
-            cartoes.Add( new Cartao("Ryan", 412379, "Mastercard", 10102022, 15));
-            cartoes.Add( new Cartao("Ryan", 013495, "HyperCard", 10102027, 15));
-            cartoes.Add( new Cartao("Ryan", 941305, "Elo", 10102028, 15));
+            cartoes.Add( new Cartao("Ryan", 158139, "Cielo", "07/12/2021", 15));
+            cartoes.Add( new Cartao("Ryan", 412379, "Mastercard", "31/05/2029", 15));
+            cartoes.Add( new Cartao("Ryan", 013495, "HyperCard", "11/04/2020", 15));
+            cartoes.Add( new Cartao("Ryan", 941305, "Elo", "23/01/2022", 15));
 
             foreach(Cartao c in cartoes){
                 Console.ForegroundColor = ConsoleColor.Magenta;              
